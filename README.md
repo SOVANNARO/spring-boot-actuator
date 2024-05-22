@@ -33,7 +33,7 @@ The **/conditions** endpoint shows the auto configuration report, categorised in
 
 ## The /mappings Endpoint
 
-The **/mappings** endpoint shows all the **@RequestMapping paths declared in the application.
+The **/mappings** endpoint shows all the **@RequestMapping** paths declared in the application.
 
 The is very helpful for checking which request path will be handled by which controller method.
 
